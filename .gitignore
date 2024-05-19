@@ -1,0 +1,11 @@
+*.exe
+*.dll
+*.dylib
+*.test
+*.out
+
+Db folder
+db/
+
+.idea
+
